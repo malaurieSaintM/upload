@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^4.1",
+        "twig/twig": "^3.0",
+        "symfony/form": "^5.0"
+    }
+}
